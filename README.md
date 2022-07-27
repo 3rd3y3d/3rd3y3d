@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3rd3y3d
 - 👀 I’m interested in d3v0p$
-- 🌱 I’m currently learning L33t$cr1pt
+- 🌱 I’m currently learning Python, Ruby, Go, Rust
 - 💞️ I’m looking to collaborate on @ll
 - 📫 Reach me here
 
